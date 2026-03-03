@@ -8,7 +8,7 @@ I build production-grade apps at work and experiment with modern web tech after 
 ## Work (C# / .NET)
 
 At work I develop web applications using:
-- **C# / .NET 7**, **ASP.NET Core**
+- **C# / .NET**, **ASP.NET Core**
 - **Blazor**
 - **Entity Framework** + **PostgreSQL**
 - Real-time messaging (e.g. **MQTT**)
