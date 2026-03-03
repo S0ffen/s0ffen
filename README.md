@@ -5,7 +5,7 @@ I build production-grade apps at work and experiment with modern web tech after 
 
 ---
 
-## 🧑‍💻 Work (C# / .NET)
+## Work (C# / .NET)
 
 At work I develop web applications using:
 - **C# / .NET 7**, **ASP.NET Core**
@@ -20,7 +20,7 @@ I care a lot about architecture, performance, and keeping complex systems mainta
 
 ---
 
-## 🌙 After hours (TypeScript / Web)
+##  After hours (TypeScript / Web)
 
 In my free time I build side projects with:
 - **TypeScript**
@@ -30,7 +30,7 @@ In my free time I build side projects with:
 
 ---
 
-## 🧠 What I enjoy most
+##  What I enjoy most
 
 - Backend architecture & clean APIs
 - Databases, data modeling, query performance
@@ -38,7 +38,7 @@ In my free time I build side projects with:
 
 ---
 
-## 🔧 Tech Snapshot
+##  Tech Snapshot
 
 **Backend:** C#, .NET, EF, PostgreSQL, MQTT  
 **Frontend:** Blazor, JavaScript/TypeScript, Next.js  
